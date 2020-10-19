@@ -14,14 +14,14 @@
 
 ---
 
-Sou o Leonardo Magalhães, mas todos me chamam de Léo. Léo Magalhães, não o cantor apesar de cantar tão mal igual ele. Sou Engenheiro de Biossistemas formado pela FZEA/USP e atualmente faço Doutorado em Engenharia de Sistemas Agrícolas pela ESALQ/USP. Utilizo linguagem python e R no meu Doutorado. Com python aplico Visão Computacional em analisar plantas, seja com imagens das folhas ou captadas por satélites e drones. Com essa imagens avaliamos a nutrição das plantas, detecção de doenças e outras aplicações.    
+Sou o Leonardo Magalhães, mas todos me chamam de Léo. Léo Magalhães, não o cantor apesar de cantar tão mal igual ele. Sou Engenheiro de Biossistemas formado pela FZEA/USP e atualmente faço Doutorado em Engenharia de Sistemas Agrícolas pela ESALQ/USP. Utilizo linguagem python e R no meu Doutorado. Com python analisamos imagens, seja das folhas ou captadas por satélites e drones. Avaliamos a nutrição das plantas, realizamos detecção de doenças e outras aplicações.    
 
 ---
 Também desenvolvo projetos de divulgação científica. Na cidade de Porto Ferreira temos um projeto que fala de ciência em escolas públicas. Escrevo para o site "A ciência explica" e vocês podem ler meus artigos aqui: http://www.cienciaexplica.com.br/author/leonardo-m/ 
 
 ---
 
-Também tenho um site onde publico meus trabalhos e alguns textos: leonardo.xyz 
+Também tenho um site onde publico meus trabalhos e alguns textos: http://leonardomagalhaes.xyz/ 
 
 Onde me encontrar? :mag:  
 
