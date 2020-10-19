@@ -19,12 +19,16 @@ Sou o Leonardo Magalhães, mas todos me chamam de Léo. Léo Magalhães, não o 
 ---
 Também desenvolvo projetos de divulgação científica. Na cidade de Porto Ferreira temos um projeto que fala de ciência em escolas públicas. Escrevo para o site "A ciência explica" e vocês podem ler meus artigos aqui: http://www.cienciaexplica.com.br/author/leonardo-m/ 
 
+---
+
+Também tenho um site onde publico meus trabalhos e alguns textos: leonardo.xyz 
+
 Onde me encontrar? :mag:  
 
-<a href="https://twitter.com/dii_lua"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/leo_omagalhaes)   
+<a href="https://twitter.com/leo_omagalhaes"><img src="https://github.com/leopmagalhaes/leopmagalhaes/blob/main/twitter-logo-icon-png-29.png" width="16"></img></a> [Twitter](https://twitter.com/leo_omagalhaes)   
 
-<a href="https://www.instagram.com/dii_lua/"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/magalhaes_leo)  
+<a href="https://www.instagram.com/magalhaes_leo/"><img src="https://github.com/leopmagalhaes/leopmagalhaes/blob/main/07f0d7b69ef071571e4ada2f4d6a053a-icone-do-instagram-colorido.png" width="16"></img></a> [Instagram](https://www.instagram.com/magalhaes_leo)  
 
-<a href="https://www.linkedin.com/in/leticiasilvar"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/leonardopmagalhaes)  
+<a href="https://www.linkedin.com/in/leonardopmagalhaes"><img src="https://github.com/leopmagalhaes/leopmagalhaes/blob/main/%C3%ADndice.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/leonardopmagalhaes)  
 
 
