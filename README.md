@@ -14,29 +14,17 @@
 
 ---
 
-Sou Cientista de Dados, atuo na área desde 2017 (e desde 2005 estudando informática :scream:) e sou graduanda em Ciência da Computação. Escrevo no [dev.to](https://dev.to/dii_lua), [Medium](https://medium.com/@dii_lua), e no meu [blog](https://leticiadasilva.github.io/) pessoal.  
-
-Amo dançar :dancer:, ler :books: e ir a karaokês :microphone:  
-Sou mãe de duas gatinhas, a Ruby e a Banguela :cat2:  
+Sou o Leonardo Magalhães, mas todos me chamam de Léo. Léo Magalhães, não o cantor apesar de cantar tão mal igual ele. Sou Engenheiro de Biossistemas formado pela FZEA/USP e atualmente faço Doutorado em Engenharia de Sistemas Agrícolas pela ESALQ/USP. Utilizo linguagem python e R no meu Doutorado. Com python aplico Visão Computacional em analisar plantas, seja com imagens das folhas ou captadas por satélites e drones. Com essa imagens avaliamos a nutrição das plantas, detecção de doenças e outras aplicações.    
 
 ---
-
-Sou Developer Student Club Lead ([DSC](https://dsc.community.dev/universidade-paulista/), da Google), organizadora do [Django Girls](https://www.instagram.com/djangogirlssjc/), [PyLadies](https://www.instagram.com/pyladiessjc/), GruPy, [Women Techmakers](https://www.instagram.com/wtmsjc/) e [GDG](https://www.instagram.com/gdgsjc/) de São José dos Campos.  
-
-Luto para incentivar pessoas, principalmente mulheres, a entrarem em TI, acreditarem em si mesmas e mostrar que programar transforma vidas! :revolving_hearts:   
-
----
+Também desenvolvo projetos de divulgação científica. Na cidade de Porto Ferreira temos um projeto que fala de ciência em escolas públicas. Escrevo para o site "A ciência explica" e vocês podem ler meus artigos aqui: http://www.cienciaexplica.com.br/author/leonardo-m/ 
 
 Onde me encontrar? :mag:  
 
-<a href="https://twitter.com/dii_lua"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/dii_lua)   
+<a href="https://twitter.com/dii_lua"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/leo_omagalhaes)   
 
-<a href="https://www.instagram.com/dii_lua/"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/dii_lua)  
+<a href="https://www.instagram.com/dii_lua/"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/magalhaes_leo)  
 
-<a href="https://www.linkedin.com/in/leticiasilvar"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/leticiasilvar)  
+<a href="https://www.linkedin.com/in/leticiasilvar"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/leonardopmagalhaes)  
 
-<a href="mailto:leticiadasilva.contato@gmail.com"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/email.png" width="16"></img></a> [Email](mailto:leticiadasilva.contato@gmail.com)  
 
----  
-
-![](https://komarev.com/ghpvc/?username=leticiadasilva&color=blue&style=flat)
