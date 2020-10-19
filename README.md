@@ -9,3 +9,5 @@
     </tr>   
 </table>
 </center>
+
+### Olá, sou o Leonardo Magalhães. Formado em Engenharia de Biossistemas e atualmente faço Doutorado em Engenharia de Sistemas Agrícolas. <img src="link_da_imagem" width="30px"></h2>
